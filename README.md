@@ -1,6 +1,7 @@
 SİBERTİM - Ultimate Pentest & IT Toolkit
 SİBERTİM toolkit, IT yöneticileri, siber güvenlik öğrencileri ve pentesterlar için geliştirilmiş; sistem yönetimi, ağ analizi ve güvenlik testlerini tek bir modern arayüzde toplayan Python tabanlı bir araç setidir.
 
+
 Sürekli komut satırına yazılan karmaşık komutları ve farklı araçları tek bir merkezden yönetmenizi sağlar.
 
 
@@ -52,7 +53,7 @@ Dosyayı klasöre çıkartın.
 main.exe dosyasını Yönetici Olarak Çalıştırın.
 
 
-Not: Ağ tarama ve sistem onarım araçlarının (Scapy, SFC vb.) düzgün çalışabilmesi için yönetici yetkisi gereklidir.
+Not: Ağ tarama ve sistem onarım araçlarının (Scapy, SFC vb.) düzgün çalışabilmesi için yönetici yetkisi gerekmektedir.
 
 
 "Windows Kişisel Bilgisayarınızı Korudu" Hatası
